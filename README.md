@@ -3,9 +3,8 @@ Converts simpler code (see README.txt) to html. Instrument, to write html code i
 
 
 ## Instructions
-### download
+### Download
 Just click releases and download latest version.
-
 ### Usage
 Open README.txt in main folder and find needed command. Following the rules, write it on new line.
 
